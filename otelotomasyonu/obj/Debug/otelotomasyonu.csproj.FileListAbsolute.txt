@@ -1,0 +1,41 @@
+c:\users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\bin\Debug\otelotomasyonu.exe.config
+c:\users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\bin\Debug\otelotomasyonu.exe
+c:\users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\bin\Debug\otelotomasyonu.pdb
+c:\users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.Properties.Resources.resources
+c:\users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.csproj.GenerateResource.Cache
+c:\users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.exe
+c:\users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.pdb
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.oda_ekle.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.otel_arama.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.Otelekle.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.giris.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.adminpanel.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.kayit.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.otelpaneli.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.rezervasyonlar.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.adminkayit.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.otelbasvuru.resources
+C:\Users\spide\documents\visual studio 2013\Projects\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.basvurular.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\bin\Debug\otelotomasyonu.exe.config
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.exe
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.pdb
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\bin\Debug\otelotomasyonu.exe
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\bin\Debug\otelotomasyonu.pdb
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.adminkayit.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.adminpanel.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.basvurular.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.giris.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.kayit.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.oda_ekle.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.otel_arama.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.otelbasvuru.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.Otelekle.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.otelpaneli.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.Properties.Resources.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.rezervasyonlar.resources
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.csproj.GenerateResource.Cache
+C:\Users\spide\Desktop\otelotomasyonu\otelotomasyonu\obj\Debug\otelotomasyonu.csprojResolveAssemblyReference.cache
+H:\son hlai\otelotomasyonu\bin\Debug\otelotomasyonu.exe.config
+H:\son hlai\otelotomasyonu\obj\Debug\otelotomasyonu.exe
+H:\son hlai\otelotomasyonu\obj\Debug\otelotomasyonu.pdb
